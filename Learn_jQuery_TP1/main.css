@@ -1,0 +1,25 @@
+button {
+    margin:auto;
+   
+    background-color: rgb(195, 195, 196);
+    margin:1%;
+    position:relative;
+    text-align: center;
+}
+#ce {
+    margin:auto;
+    padding-top:20px;
+    margin-top:20px;
+    border: 3px black dotted;
+    background-color: rgb(195, 195, 196);
+    font-size: larger;
+    height:40%;
+    width:40%;
+    position:relative;
+    text-align: center;
+}
+.box{
+    width:100px; height:100px; background: #CCF;
+    display: inline-block;
+}
+
